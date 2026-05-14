@@ -1,0 +1,302 @@
+{
+  "name": "Rain24 TUI",
+  "description": "A system24-inspired terminal/TUI theme for Raincord/Kettu-style Discord mobile clients. Dark panels, phosphor green/cyan accents, square terminal vibe, and JetBrains Mono font mappings.",
+  "authors": [
+    {
+      "name": "Ryan + ChatGPT",
+      "id": "0"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#17342E"
+    ],
+    "CHAT_BACKGROUND": [
+      "#07100F"
+    ],
+    "HEADER_PRIMARY": [
+      "#D7FBE8"
+    ],
+    "HEADER_SECONDARY": [
+      "#8AA39B"
+    ],
+    "TEXT_NORMAL": [
+      "#CDEBD8"
+    ],
+    "TEXT_MUTED": [
+      "#6B817A"
+    ],
+    "TEXT_LINK": [
+      "#4DD6FF"
+    ],
+    "TEXT_PRIMARY": [
+      "#D7FBE8"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#A8F7D2"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#38F8B6"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#D7FBE8"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#49615A"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#07100F"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#0A1514"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#0D1B19"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#101F1D"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#1F3D38"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#07100F"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#0A1514"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#0D1B19"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#102A25"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#102A25"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#153A34"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#1A4C43"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#24423D"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#D7FF5F18"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#0A1514"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#101F1D"
+    ],
+    "BG_BASE_PRIMARY": [
+      "#07100F"
+    ],
+    "BG_BASE_SECONDARY": [
+      "#0A1514"
+    ],
+    "BG_BASE_TERTIARY": [
+      "#101F1D"
+    ],
+    "BG_BACKDROP": [
+      "#000000CC"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#8AA39B"
+    ],
+    "CHANNEL_ICON": [
+      "#5E776F"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#38F8B6"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#101F1D"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": [
+      "#00C781"
+    ],
+    "REDESIGN_BUTTON_PRIMARY_PRESSED_BACKGROUND": [
+      "#009E66"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#102A25"
+    ],
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "#2B4D47"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#0D1B19"
+    ],
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#7FE7C0"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#CDEBD8"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#0D1B19"
+    ],
+    "STATUS_DANGER": [
+      "#FF5F87"
+    ],
+    "STATUS_POSITIVE": [
+      "#38F8B6"
+    ],
+    "STATUS_WARNING": [
+      "#D7FF5F"
+    ],
+    "STATUS_STREAMING": [
+      "#B983FF"
+    ]
+  },
+  "rawColors": {
+    "BLACK": "#07100F",
+    "WHITE": "#D7FBE8",
+    "WHITE_500": "#D7FBE8",
+    "WHITE_630": "#8AA39B",
+    "PRIMARY_100": "#D7FBE8",
+    "PRIMARY_200": "#CDEBD8",
+    "PRIMARY_300": "#A8C9BD",
+    "PRIMARY_330": "#8AA39B",
+    "PRIMARY_360": "#6B817A",
+    "PRIMARY_400": "#49615A",
+    "PRIMARY_460": "#24423D",
+    "PRIMARY_500": "#17342E",
+    "PRIMARY_530": "#153A34",
+    "PRIMARY_600": "#102A25",
+    "PRIMARY_630": "#0D1B19",
+    "PRIMARY_645": "#0B1715",
+    "PRIMARY_660": "#0A1514",
+    "PRIMARY_700": "#081210",
+    "PRIMARY_800": "#07100F",
+    "PLUM_24": "#07100F",
+    "PLUM_20": "#07100F",
+    "PLUM_19": "#0A1514",
+    "PLUM_18": "#0D1B19",
+    "PLUM_17": "#101F1D",
+    "PLUM_16": "#153A34",
+    "PLUM_15": "#24423D",
+    "PLUM_10": "#6B817A",
+    "PLUM_6": "#38F8B6",
+    "PLUM_4": "#1A4C43",
+    "PLUM_3": "#D7FBE8",
+    "BRAND_260": "#8CFFE0",
+    "BRAND_360": "#38F8B6",
+    "BRAND_500": "#00C781",
+    "BRAND_560": "#009E66",
+    "BLUE_345": "#4DD6FF",
+    "BLUE_360": "#4DD6FF",
+    "BLUE_400": "#31B6E8",
+    "BLUE_430": "#2397C9",
+    "BLUE_500": "#17769E",
+    "GREEN_100": "#D7FBE8",
+    "GREEN_130": "#C0FFE8",
+    "GREEN_160": "#A2FFDC",
+    "GREEN_200": "#8CFFE0",
+    "GREEN_230": "#72FFD3",
+    "GREEN_260": "#5DFFC9",
+    "GREEN_300": "#38F8B6",
+    "GREEN_330": "#20E4A4",
+    "GREEN_345": "#00D993",
+    "GREEN_360": "#00C781",
+    "GREEN_400": "#00B474",
+    "GREEN_430": "#009E66",
+    "GREEN_460": "#008A59",
+    "GREEN_500": "#007A4E",
+    "GREEN_530": "#006A44",
+    "GREEN_560": "#005A3A",
+    "GREEN_600": "#004A30",
+    "GREEN_630": "#003B27",
+    "GREEN_660": "#002D1E",
+    "GREEN_700": "#002016",
+    "GREEN_730": "#00170F",
+    "GREEN_760": "#00110B",
+    "GREEN_800": "#000D08",
+    "GREEN_830": "#000906",
+    "GREEN_860": "#000604",
+    "GREEN_900": "#000302",
+    "RED_260": "#FF9BB0",
+    "RED_300": "#FF839D",
+    "RED_330": "#FF6B8C",
+    "RED_345": "#FF5F87",
+    "RED_360": "#FF4D7A",
+    "RED_400": "#F23E6F",
+    "RED_430": "#DD315F",
+    "RED_460": "#C82750",
+    "RED_500": "#B31E42",
+    "RED_530": "#991837",
+    "RED_560": "#80142E",
+    "RED_600": "#661025",
+    "RED_630": "#4D0C1C",
+    "RED_660": "#3A0915",
+    "RED_700": "#27060E",
+    "YELLOW_100": "#FAFFD1",
+    "YELLOW_130": "#F3FFB1",
+    "YELLOW_160": "#ECFF92",
+    "YELLOW_200": "#E4FF73",
+    "YELLOW_230": "#D7FF5F",
+    "YELLOW_260": "#C8F24F",
+    "YELLOW_300": "#B8DF43",
+    "YELLOW_330": "#A7CC38",
+    "YELLOW_345": "#9CBC32",
+    "YELLOW_360": "#90AD2E",
+    "YELLOW_400": "#7F9928",
+    "YELLOW_430": "#6E8523",
+    "YELLOW_460": "#5E711E",
+    "YELLOW_500": "#4E5E19",
+    "YELLOW_530": "#3E4A14",
+    "YELLOW_560": "#30390F",
+    "YELLOW_600": "#232A0B",
+    "YELLOW_630": "#171C07",
+    "YELLOW_660": "#0F1205",
+    "YELLOW_700": "#090B03",
+    "GUILD_BOOSTING_PINK": "#FF5F87",
+    "GUILD_BOOSTING_PURPLE": "#B983FF",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#B983FF"
+  },
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "mentionLineColor": "#D7FF5F",
+    "icons": {
+      "ic_radio_circle_checked": "#38F8B6",
+      "ic_radio_circle_checked__overlay": "#07100F",
+      "ic_radio_square_24px": "#38F8B6",
+      "ic_radio_square_checked_24px": "#38F8B6",
+      "ic_radio_square_checked_24px__overlay": "#07100F",
+      "ic_selection_checked_24px": "#38F8B6",
+      "ic_selection_checked_24px__overlay": "#07100F",
+      "StatusMobileOnline": "#38F8B6",
+      "StatusIdle": "#D7FF5F",
+      "StatusDND": "#FF5F87",
+      "StatusOffline": "#6B817A",
+      "StatusOnline": "#38F8B6",
+      "StatusStreaming": "#B983FF"
+    }
+  },
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-ExtraBold.ttf?raw=1",
+    "ggsans-Bold": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-Bold.ttf?raw=1",
+    "ggsans-BoldItalic": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-BoldItalic.ttf?raw=1",
+    "ggsans-ExtraBold": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-ExtraBold.ttf?raw=1",
+    "ggsans-ExtraBoldItalic": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-ExtraBoldItalic.ttf?raw=1",
+    "ggsans-Medium": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-Medium.ttf?raw=1",
+    "ggsans-MediumItalic": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-MediumItalic.ttf?raw=1",
+    "ggsans-Normal": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-Regular.ttf?raw=1",
+    "ggsans-NormalItalic": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-Italic.ttf?raw=1",
+    "ggsans-Semibold": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-Medium.ttf?raw=1",
+    "ggsans-SemiboldItalic": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-MediumItalic.ttf?raw=1",
+    "NotoSans-Bold": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-Bold.ttf?raw=1",
+    "NotoSans-ExtraBold": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-ExtraBold.ttf?raw=1",
+    "NotoSans-Medium": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-Medium.ttf?raw=1",
+    "NotoSans-Normal": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-Regular.ttf?raw=1",
+    "NotoSans-NormalItalic": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-Italic.ttf?raw=1",
+    "NotoSans-Semibold": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-Medium.ttf?raw=1",
+    "SourceCodePro-Semibold": "https://github.com/JetBrains/JetBrainsMono/raw/master/fonts/ttf/JetBrainsMono-Medium.ttf?raw=1"
+  },
+  "spec": 2
+}
